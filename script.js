@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const todoForm = document.querySelector('.todo-form');
 const todoInput = document.querySelector('.todo-input');
 const todoItemsList = document.querySelector('.todo-items');
